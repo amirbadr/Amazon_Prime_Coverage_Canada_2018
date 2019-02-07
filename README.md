@@ -8,7 +8,7 @@ The packages I used:
 - Geopandas
 - Selenim
 
-The flow-chart of the Amazon Prime Same-day/One-day coverage in Canada in 2018 project si the following:
+The flow-chart of the Amazon Prime Same-day/One-day coverage in Canada in 2018 project is the following:
 
 1. Canada ShapeFile (.shp) consisting of Canada zip codes and corresponding geometery polygans/multi-polygans
 2. Extracting canada zip codes from the shapefile
