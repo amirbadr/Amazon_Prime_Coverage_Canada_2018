@@ -6,7 +6,7 @@ The packages I used:
 
 - Folium
 - Geopandas
-- Selenim
+- Selenium
 
 The flow-chart of the Amazon Prime Same-day/One-day coverage in Canada in 2018 project is the following:
 
