@@ -1,5 +1,6 @@
 # Amazon_Prime_Coverage_Canada_2018
 
+Amaozn Prime is a service provided by Amazon for same-day/one-day online shipping in Canada. This service costs around $100/year and Amazon provides special discount for students. Have you ever curious about how far Amazon Prime is extended in Canada?
 In this project, I analyzed the Amazon Prime coverage zone in Canada with Python. 
 
 The packages I used:
